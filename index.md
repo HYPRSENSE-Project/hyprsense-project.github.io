@@ -26,6 +26,6 @@ We are excited to share our progress and connect with the community. Members of 
 
 * __Chipdesign Germany Forum 2026__, 5./6. May 2026, Dorint Hotel Dresden
 
-  * Come see our presentation titled "HYPRSENSE – Holistic prototYping for imPRoved Sensor design" in the poster session.
+  * Come see our presentation titled "_DI-HYPRSENSE: Virtuelle Prototypen für das Design moderner Sensorsysteme_" in the poster session.
 
   * Members of the team will be available for meetings at the session area.
