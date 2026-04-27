@@ -11,30 +11,30 @@ To achieve this, a "virtual prototype"—a complete system simulation model—is
 The project will focus on three key areas of development:
 
 * __SystemC AMS Extensions:__ We will develop and standardize an interface for SystemC AMS that allows the integration of application-specific algorithms for equation solving and time-step control. This will be used to create an open-source library specifically optimized for modeling MEMS, enabling more accurate and significantly faster simulations.
-* __VHDL to SystemC Conversion:__ To enable the reuse of existing IP blocks and reduce modeling efforts, we will create an open-source tool that converts synthesizable VHDL code into a cycle-accurate SystemC model. This closes a major gap for the electronics industry, where VHDL is a predominant language.
+* __[VHDL to SystemC Conversion](https://github.com/HYPRSENSE-Project):__ To enable the reuse of existing IP blocks and reduce modeling efforts, we will create an open-source tool that converts synthesizable VHDL code into a cycle-accurate SystemC model. This closes a major gap for the electronics industry, where VHDL is a predominant language.
 * __Sensor Model Demonstrator:__ To showcase the power and facilitate the adoption of the new tools, we will develop a comprehensive open-source demonstrator. This will feature a complete virtual prototype of a smart sensor, including a RISC-V core converted from VHDL and a complex MEMS model, providing a practical and accessible resource for the community.
 
 ## Project Partners
 The HYPRSENSE project is a collaborative effort between leading industry and academic partners:
 
-  *  __Bosch Sensortec GmbH (Coordinator)__
-  *  __COSEDA Technologies GmbH__
-  *  __MINRES GmbH__
-  *  __University of Rostock__
+  *  __[Bosch Sensortec GmbH](https://www.bosch-sensortec.com/) (Coordinator)__
+  *  __[COSEDA Technologies GmbH](https://www.coseda-tech.com/)__
+  *  __[MINRES GmbH](https://www.minres.com/)__
+  *  __[University of Rostock](https://www.imd.uni-rostock.de/)__
 
 ## Events & Workshops
 We are excited to share our progress and connect with the community. Members of the HYPRSENSE team will be presenting our work and participating in discussions at the following events. We invite you to join us to learn more about the project and explore potential collaborations.
 
-* __Chipdesign Germany Forum 2026__, 5./6. May 2026, Dorint Hotel Dresden
+* __[Chipdesign Germany Forum 2026](https://www.chipdesign-germany.de/de/events/2026/dresden-chipdesign-germany-forum/)__, 5./6. May 2026, Dorint Hotel Dresden
 
   * Come see our presentation titled "_DI-HYPRSENSE: Virtuelle Prototypen für das Design moderner Sensorsysteme_" in the poster session.
 
   * Members of the team will be available for meetings at the session area.
 
 ## Contact
-Bosch Sensortec GmbH
-Project DI-Hyprsense
-Gerhard-Kindler-Str. 9
-D-72770 Reutlingen
-Germany
-Email: tbd
+Bosch Sensortec GmbH<br>
+Project DI-Hyprsense<br>
+Gerhard-Kindler-Str. 9<br>
+D-72770 Reutlingen<br>
+Germany<br>
+Email: rainer.dorsch@bosch-sensortec.com
