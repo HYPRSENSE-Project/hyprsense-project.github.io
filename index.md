@@ -19,7 +19,7 @@ The HYPRSENSE project is a collaborative effort between leading industry and aca
 
   *  __[Bosch Sensortec GmbH](https://www.bosch-sensortec.com/) (Coordinator)__
   *  __[COSEDA Technologies GmbH](https://www.coseda-tech.com/)__
-  *  __[MINRES GmbH](https://www.minres.com/)__
+  *  __[MINRES Technologies GmbH](https://www.minres.com/)__
   *  __[University of Rostock](https://www.imd.uni-rostock.de/)__
 
 ## Events & Workshops
