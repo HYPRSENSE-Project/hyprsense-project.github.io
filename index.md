@@ -37,4 +37,4 @@ Project DI-Hyprsense<br>
 Gerhard-Kindler-Str. 9<br>
 D-72770 Reutlingen<br>
 Germany<br>
-Email: dietmar.eggert@bosch-sensortec.com
+Email: di-hyprsense@bosch-sensortec.com
