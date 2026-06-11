@@ -25,8 +25,7 @@ The HYPRSENSE project is a collaborative effort between leading industry and aca
 ## Events & Workshops
 We are excited to share our progress and connect with the community. Members of the HYPRSENSE team will be presenting our work and participating in discussions at the following events. We invite you to join us to learn more about the project and explore potential collaborations.
 
-* __[SystemC Evolution Fika, 23./24. April 2026 ](https://systemc.org/events/scef202604/)__
-  * Online workshop on the latest SystemC developments
+* __[SystemC Evolution Fika](https://systemc.org/events/scef202604/)__, 23./24. April 2026, Online workshop
   * "Toward Fast Heterogeneous Virtual Prototypes: Increasing the Solver Efficiency in SystemC AMS" (Alexandra Küster)
   * __[Presentation](https://workspace.accellera.org/document/dl/14309)__ | __[Recording](https://www.youtube.com/watch?v=FR4I9a3mnoE)__
 *  __[Chipdesign Germany Forum 2026](https://www.chipdesign-germany.de/de/events/2026/dresden-chipdesign-germany-forum/)__, 5./6. May 2026, Dorint Hotel Dresden
