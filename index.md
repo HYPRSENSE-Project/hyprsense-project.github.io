@@ -27,12 +27,10 @@ We are excited to share our progress and connect with the community. Members of 
 
 * __[SystemC Evolution Fika, 23./24. April 2026 ](https://systemc.org/events/scef202604/)__
   * Online workshop on the latest SystemC developments
-  * presentation "Toward Fast Heterogeneous Virtual Prototypes: Increasing the Solver Efficiency in SystemC AMS"
+  * "Toward Fast Heterogeneous Virtual Prototypes: Increasing the Solver Efficiency in SystemC AMS" (Alexandra Küster)
   * __[Presentation](https://workspace.accellera.org/document/dl/14309)__ | __[Recording](https://www.youtube.com/watch?v=FR4I9a3mnoE)__
 *  __[Chipdesign Germany Forum 2026](https://www.chipdesign-germany.de/de/events/2026/dresden-chipdesign-germany-forum/)__, 5./6. May 2026, Dorint Hotel Dresden
-
   * Come see our presentation titled "_DI-HYPRSENSE: Virtuelle Prototypen für das Design moderner Sensorsysteme_" in the poster session.
-
   * Members of the team will be available for meetings at the session area.
 
 ## Contact
