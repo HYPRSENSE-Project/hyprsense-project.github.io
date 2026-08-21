@@ -30,9 +30,14 @@ We are excited to share our progress and connect with the community. Members of 
   * "Toward Fast Heterogeneous Virtual Prototypes: Increasing the Solver Efficiency in SystemC AMS" (Alexandra Küster)
   * **[Presentation](https://workspace.accellera.org/document/dl/14309)** | **[Recording](https://www.youtube.com/watch?v=FR4I9a3mnoE)**
 
-* **[Chipdesign Germany Forum 2026](https://www.chipdesign-germany.de/de/events/2026/dresden-chipdesign-germany-forum/)**, 5./6. May 2026, Dorint Hotel Dresden
+* **[Chipdesign Germany Forum 2026](https://www.chipdesign-germany.de/de/events/2026/dresden-chipdesign-germany-forum/)**, 5./6. May 2026; Dorint Hotel Dresden
   * Come see our presentation titled "_DI-HYPRSENSE: Virtuelle Prototypen für das Design moderner Sensorsysteme_" in the poster session.
   * Members of the team will be available for meetings at the session area.
+
+* **[FDL 2026](https://www.fdl-conference.com/program.html)**, September 9-11, 2026; Rome, Italy
+  * Come see our presentation titled "_Enabling Cross-Language and Cross-Level Verification Reuse Using SCVPI*_" (Bhavay Arora, Rainer Dorsch, Christian Haubelt)
+  
+
 
 ## Contact
 Bosch Sensortec GmbH<br>
